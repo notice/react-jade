@@ -4,7 +4,7 @@ React+Jadeのサンプルコードです。
 
 JSXの代わりにJadeを利用しています。
 
-"separation of concerns"になってしまっていますが‥
+"separation of concerns"になってしまっていますけど。
 
 ### ライブラリ
 
@@ -23,12 +23,10 @@ Javascriptはcoffeescriptで書いています。
 ビルドツールはgulp+webpackです。
 詳しくはgulpfile.coffee,webpack.config.coffeeを参照してください。
 
-#### coffeescript
-
 ```
 $ npm install
 $ gulp js index.html
 $ php -S 0.0.0.0:8000 -t public
 とか
-$ python -m SimpleHTTPServer 8000
+$ python -m SimpleHTTPServer 8000
 ```
