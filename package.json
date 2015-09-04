@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "react-jade",
+  "version": "1.0.0",
+  "description": "",
+  "author": "kan",
+  "devDependencies": {
+    "coffee-loader": "^0.7.2",
+    "coffee-script": "^1.10.0",
+    "fs": "0.0.2",
+    "gulp": "^3.9.0",
+    "gulp-jade": "^1.1.0",
+    "loader-utils": "^0.2.11",
+    "lodash": "^3.10.1",
+    "react": "^0.13.3",
+    "react-jade": "^0.2.0",
+    "react-jade-loader": "^0.1.0",
+    "webpack": "^1.12.1",
+    "webpack-stream": "^2.1.0"
+  }
+}
